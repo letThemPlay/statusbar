@@ -1,4 +1,4 @@
-# Simple flake for (statusbar)[https://git.sr.ht/~rkintzi/statusbar]
+# Simple flake for [statusbar](https://git.sr.ht/~rkintzi/statusbar)
 
 ## Installation
 
